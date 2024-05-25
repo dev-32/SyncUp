@@ -10,15 +10,15 @@ class PlaylistProvider extends ChangeNotifier {
         albumArtImagePath: "assets/images/music.png",
         audioPath: "audio/music.mp3"),
     Song(
-        songName: "Sajni Re 2",
-        artisName: "Arijit Singh",
-        albumArtImagePath: "assets/images/music.png",
-        audioPath: "audio/music.mp3"),
+        songName: "Kahani Meri",
+        artisName: "kaifi Khalil",
+        albumArtImagePath: "assets/images/music2.png",
+        audioPath: "audio/music2.mp3"),
     Song(
-        songName: "Sajni Re 3",
-        artisName: "Arijit Singh",
-        albumArtImagePath: "assets/images/music.png",
-        audioPath: "audio/music.mp3"),
+        songName: "Naina",
+        artisName: "Diljit Dosanjh",
+        albumArtImagePath: "assets/images/music3.png",
+        audioPath: "audio/music3.mp3"),
   ];
 
 // Current Song playing index
